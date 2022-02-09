@@ -6,7 +6,7 @@
 
 // You are one of the engineers building the Fare Estimator, so knowing cost per minute and cost per mile for each car type, as well as ride distance and ride time, return the fare estimates for all car types.
 
-// Example
+// Example (Quick change of this line only)
 
 // For
 // ride_time = 30,
